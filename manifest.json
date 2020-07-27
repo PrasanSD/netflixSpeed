@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "Netflix_speed",
   "version": "1.0",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/PrasanSD/netflixSpeed",
   "description": "Adds an extension button to change the speed of a video played on Netflix/HBO.",
   "icons": {
     "64": "icons/icon-64.png"
