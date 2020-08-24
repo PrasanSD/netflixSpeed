@@ -1,1 +1,1 @@
-# netflixSpeed
+# Video Speed Manager
